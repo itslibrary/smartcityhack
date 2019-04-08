@@ -2,6 +2,8 @@
 layout: page
 title: IATR 2019 "Smart City Mobility" Hack-a-thon
 ---
+![alt text](https://github.com/itslibrary/smartcityhack/_docs/Hack-A_Thon Header for Blasts.png "IATR 2019 Hack-A-Thon")
+
 ## Hack-A-Thon Competetition Overview
 
 [IATR](http://iatr.global) hosts the **IATR 2019 Smart City Mobility Hack-A-thon** in conjunction with the [32nd IATR Annual Conference](http://iatr.global/iatr-conferences). 
