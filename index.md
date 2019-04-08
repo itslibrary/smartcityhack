@@ -1,103 +1,42 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: IATR 2019 "Smart City Mobility" Hack-a-thon
 ---
+## Hack-A-Thon Competetition Overview
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+[IATR](http://iatr.global) hosts the **IATR 2019 Smart City Mobility Hack-A-thon** in conjunction with the [32nd IATR Annual Conference](http://iatr.global/iatr-conferences). 
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+The International Association of Transportation Regulators (IATR), along with its university partners and government regulator member agencies and related agencies and organizations, is conducting a “Smart City” Hack-A-Thon from **April 12-18th, 2019**.  
 
-## Setup Guide
+This competition seeks solutions for the City of Calgary, Alberta, Canada, by using data sets provided to suggest innovative ideas and policies (based on best practices or benchmarking) to enhance service to users in both urban and rural environments, while promoting and ensuring safety, accessibility/equity, environmental and fiscal responsibility goals.
 
-### Fork this repository
+The IATR’s “Data Commons,” housed at the University of California at Berkeley, is a repository for public and private transportation related data, and will be made available to participants to explore innovative solutions, including technology based initiatives, government policy recommendations, and/or service delivery improvements that can be implemented in the private and/or public sector, or through public/private partnerships.
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+## IATR 2019 Hack-A-Thon Prizes & Awards
 
-### Rename your forked repository
+The 2019 IATR Hack-A-Thon will include a *cash prize*, for students, in the amount of **$2,500 - $5,000 U.S. dollars**, within the sole discretion of the IATR.  The IATR, upon advice from its panel of participating judges, may elect to award or not award cash or other prizes, within its discretion, based upon the quality and innovative nature of the submissions.  In order to receive the prize, the competition winner, or finalists, must attend the IATR conference in Calgary on a date to be determined (either September 23rd or 24th, 2019), at the expense of the IATR.  The number of attendees from the winner or finalists shall be chosen by the IATR, in its sole discretion (usually one person per team).  Peer recognition, awards and possible job or internship opportunities may also be offered, within the sole discretion of the IATR and its participating sponsors.  The amount of the prize will only be available to teams that include one or more students, and may include or be supervised by faculty as well.  The amount of any potential prize may be awarded to the entire team or individuals within the discretion of the IATR.  Private sector competitors (teams that include start-ups, private businesses, or other entities not solely comprised of students or faculty), shall NOT be eligible for cash prizes – but instead will be eligible for discounted or free sponsorship or exhibition space at the 2019 IATR conference, within the sole discretion of the IATR.    
 
-Here we have two possibilities:
+## How & Where to Compete?
 
-* **You want a user or organization website**
+Since this is a remote competition, participants can compete from their desired locations, such as their universities, offices, or their apartments, during the same dates and times, with submissions through an electronic portal. Finalists will be selected by a panel of IATR selected judges, and - within the discretion of the panel - may be required to answer written questions, deliver a remote presentation and/or to be interviewed.
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+Competitors can include students, professors, private companies, non-profit interest groups, government employees, or any person, team or institution which seeks to analyze available mobility data to present solutions to help the host city of the IATR's 32nd Annual Conference - namely Calgary. 
 
-  Go in the `Settings` page of your repository and rename it to `<your username>.github.io`.
+## Hack-A-Thon Challenge Topics
 
-* **You want a project website**
+The goal of the Hack-A-Thon is to provide a comprehensive "Smart Mobility Plan" that may include:
+Parking & curb space innovation;
++ Reduced congestion;
++ Carbon footprint reduction;
++ Centralized dispatch systems or data platforms for for-hire ground transportation services;
++ Connected & automated vehicle implementation & testing;
++ Mobility-on-Demand and MAAS - Mobility-As-A-Service multi-modal integration options;
++ Increased Shared Mobility options;
++ Public & private wheelchair accessible or paratransit service enhancements;
++ Equity - service to under-served communities and fair fares.
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+A more detailed list of Hack-A-Thon questions, challenges and potential service enhancement areas, consistent with the foregoing "Smart City Mobility" topics, will be released immediately before the competition start date for registered participants.
 
-  Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
+## Hack-A-Thon Data
 
-### Activate Github Pages on your repository
-
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
-
-### That's it
-
-Your Github Pages website with customizable Bootstrap 4 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
-
-## Customization Guide
-
-### Modify the configuration
-
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
-
-### Change your theme
-
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
-
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
-
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
-
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
-
-That's it, you now have a totally different appearance for you website.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 4 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-[See the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [colemannick.github.io](https://colemannick.github.io/)
-* [Betty and the Blushtones](http://bettyandtheblushtones.co.uk/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-
-## Other projects
-
-[Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/) which documents how to publish Markown files to Github Pages in the fastest way.
+Here is where we will link to the data soon. 
