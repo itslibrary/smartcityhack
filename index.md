@@ -2,7 +2,7 @@
 layout: page
 title: IATR 2019 "Smart City Mobility" Hack-a-thon
 ---
-![alt text](https://github.com/itslibrary/smartcityhack/_docs/Hack-A_Thon Header for Blasts.png "IATR 2019 Hack-A-Thon")
+![alt text](https://github.com/itslibrary/smartcityhack/_docs/Hack-A_ThonHeaderBlasts.png "IATR 2019 Hack-A-Thon")
 
 ## Hack-A-Thon Competetition Overview
 
