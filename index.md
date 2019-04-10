@@ -20,7 +20,11 @@ Anyone who is interested in participating as a contestant, data supplier or spon
 
 ![alt_text](https://github.com/itslibrary/smartcityhack/blob/master/_docs/Curb%20Green%20logo.png?raw=250px "IATR 2019 Hack-A-Thon is sponsored by Curb Mobility") 
 
-Thanks to the sponsorship of [Curb Mobility](https://gocurb.com/about/), the 2019 IATR Hack-A-Thon will include a *cash prize*, for students, in the amount of **$2,500 - $5,000 U.S. dollars**, within the sole discretion of the IATR.  The IATR, upon advice from its panel of participating judges, may elect to award or not award cash or other prizes, within its discretion, based upon the quality and innovative nature of the submissions.  In order to receive the prize, the competition winner, or finalists, must attend the IATR conference in Calgary on a date to be determined (either September 23rd or 24th, 2019), at the expense of the IATR.  The number of attendees from the winner or finalists shall be chosen by the IATR, in its sole discretion (usually one person per team).  Peer recognition, awards and possible job or internship opportunities may also be offered, within the sole discretion of the IATR and its participating sponsors.  The amount of the prize will only be available to teams that include one or more students, and may include or be supervised by faculty as well.  The amount of any potential prize may be awarded to the entire team or individuals within the discretion of the IATR.  Private sector competitors (teams that include start-ups, private businesses, or other entities not solely comprised of students or faculty), shall NOT be eligible for cash prizes – but instead will be eligible for discounted or free sponsorship or exhibition space at the 2019 IATR conference, within the sole discretion of the IATR. 
+
+**[Curb Mobility](https://gocurb.com/about/)** is a fast-paced, entrepreneurial company with deep roots in the taxi and for-hire industry. Curb Mobility provides products for mobile app solutions, effortless payment, paratransit, business travel, and advertising that reaches captive audiences of millions. Curb also has a mobile taxi app that provides on-demand transportation to passengers across the United States. IATR is very excited that Curb has agreed to sponsor it's 4th Annual Hack-A-Thon competition! You can learn more about curb at <https://gocurb.com/>.
+
+The 2019 IATR Hack-A-Thon will include a *cash prize*, for students, in the amount of **$2,500 - $5,000 U.S. dollars**, within the sole discretion of the IATR.  The IATR, upon advice from its panel of participating judges, may elect to award or not award cash or other prizes, within its discretion, based upon the quality and innovative nature of the submissions.  In order to receive the prize, the competition winner, or finalists, must attend the IATR conference in Calgary on a date to be determined (either September 23rd or 24th, 2019), at the expense of the IATR.  The number of attendees from the winner or finalists shall be chosen by the IATR, in its sole discretion (usually one person per team).  Peer recognition, awards and possible job or internship opportunities may also be offered, within the sole discretion of the IATR and its participating sponsors.  The amount of the prize will only be available to teams that include one or more students, and may include or be supervised by faculty as well.  The amount of any potential prize may be awarded to the entire team or individuals within the discretion of the IATR.  Private sector competitors (teams that include start-ups, private businesses, or other entities not solely comprised of students or faculty), shall NOT be eligible for cash prizes – but instead will be eligible for discounted or free sponsorship or exhibition space at the 2019 IATR conference, within the sole discretion of the IATR. 
+
 
 ## How & Where to Compete?
 
@@ -45,4 +49,9 @@ A more detailed list of Hack-A-Thon questions, challenges and potential service 
 
 ## Hack-A-Thon Data
 
-Here is where we will link to the data soon. 
+The [IATR Hack-A-Thon Data Commons](https://berkeley.box.com/v/IATRHackAThonData) includes trip data for the cities of Calgary, Abu Dhabi, Philadelphia, and Washington DC. The password to access the commons during the competition will be emailed to participants. 
+
+[Open Calgary](https://data.calgary.ca/)
+
+[Chicago taxi trips data](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
+[NYC TLC trip records data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
